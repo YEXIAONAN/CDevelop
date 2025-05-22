@@ -22,5 +22,6 @@
   <ItemGroup>
     <None Include="README.md" />
     <None Include="README-ZH.md" />
+    <None Include="C++教程.md" />
   </ItemGroup>
 </Project>

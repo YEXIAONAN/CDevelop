@@ -130,6 +130,7 @@
     <ClCompile Include="CDevelop.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="C++教程.md" />
     <None Include="README-ZH.md" />
     <None Include="README.md" />
   </ItemGroup>
